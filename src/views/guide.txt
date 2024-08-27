@@ -1,0 +1,4 @@
+Setup firebase project
+setup vue
+npm install firebase + npm install firebase-tools
+firebase login (in terminal)
